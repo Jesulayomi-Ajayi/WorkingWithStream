@@ -1,0 +1,13 @@
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\bin\Debug\netcoreapp3.1\WorkingWithStream.exe
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\bin\Debug\netcoreapp3.1\WorkingWithStream.deps.json
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\bin\Debug\netcoreapp3.1\WorkingWithStream.runtimeconfig.json
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\bin\Debug\netcoreapp3.1\WorkingWithStream.runtimeconfig.dev.json
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\bin\Debug\netcoreapp3.1\WorkingWithStream.dll
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\bin\Debug\netcoreapp3.1\WorkingWithStream.pdb
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\obj\Debug\netcoreapp3.1\WorkingWithStream.csprojAssemblyReference.cache
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\obj\Debug\netcoreapp3.1\WorkingWithStream.AssemblyInfoInputs.cache
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\obj\Debug\netcoreapp3.1\WorkingWithStream.AssemblyInfo.cs
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\obj\Debug\netcoreapp3.1\WorkingWithStream.csproj.CoreCompileInputs.cache
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\obj\Debug\netcoreapp3.1\WorkingWithStream.dll
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\obj\Debug\netcoreapp3.1\WorkingWithStream.pdb
+C:\Users\JESULAYO\Documents\EEG 324\WorkingWithStream\WorkingWithStream\obj\Debug\netcoreapp3.1\WorkingWithStream.genruntimeconfig.cache
